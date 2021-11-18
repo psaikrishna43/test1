@@ -1,0 +1,14 @@
+Aravind Sure10:07 AM
+TestNG is an open source automated testing framework; where NG means Next Generation. TestNG is similar to JUnit (especially JUnit 4), but it is not a JUnit extension. It is inspired by Junit and NUnit (Junit equivalent in C#). TestNG is designed to cover all categories of tests like unit, functional, and integration.
+
+ 
+
+Major features of TestNG from Selenium perspective are:
+It has the ability to produce HTML Reports after every test execution (Selenium doesn’t have the capability to generate 
+Annotations makes the methods easier to differentiate
+
+Grouping and prioritization of tests can be done to control execution flow of test cases   
+
+Data can be Parameterized using different built in annotations
+
+Parallel execution of test methods is possible
